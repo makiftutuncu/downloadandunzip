@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Download Unzip Show</string>
+    
+    <string name="button_download">Download</string>
+    <string name="button_unzip">Unzip (Extract)</string>
+    <string name="button_show">Show Random Image</string>
+    
+    <string name="dialog_title">Downloading file...</string>
+    <string name="dialog_message">Please wait while the following file is being downloaded:\n\n</string>
+
+</resources>
